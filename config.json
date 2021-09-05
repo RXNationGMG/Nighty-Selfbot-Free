@@ -1,0 +1,6 @@
+{
+  "token": "token here",
+  "prefix": ".",
+  "deletetimer": 40,
+  "errorlog": "message"
+}
